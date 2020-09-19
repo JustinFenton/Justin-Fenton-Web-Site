@@ -1,1 +1,4 @@
-Text in a blog post
+---
+title: "MY-TITLE"
+date: 2020-09-20
+---
